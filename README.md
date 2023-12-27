@@ -3,5 +3,6 @@
   My Name: Philipp <br> 
   I'm Studying: Physics <br> 
   Where: Austria <br> 
-  Currently learning: Python <br> 
+  Currently learning: Python <br>
+  And more ... <br> 
 </p>
